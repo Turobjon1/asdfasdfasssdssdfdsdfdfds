@@ -34,15 +34,15 @@ function malumotchiqar() {
   input.value = ''
 }
 
-btn2.addEventListener( 'click', () => {
-  data.(input.value)
-  input.value = ''
-  malumotchiqar()
-})
 
-body.style.width = '100%'
-body.style.height = '100vh'
 
 input.style.borderRadius = '50px'
 btn.style.borderRadius = '50px'
+btn.style.backgroundColor = 'red'
+
+
+
+
+
+
 
